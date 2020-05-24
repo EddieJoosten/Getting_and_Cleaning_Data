@@ -12,6 +12,8 @@
 # has been unzipped. The working directory should be set to the directory
 # 'UCI HAR Dataset', which is the main folder from the zip-file.
 # libraries used: stringr, dplyr
+library(dplyr)
+library(stringr)
 #
 # Now read all necessary files in data frames
 #
